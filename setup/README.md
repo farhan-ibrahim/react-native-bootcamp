@@ -1,5 +1,7 @@
 # Setup instructions
 
+## Edit 2
+
 You will find the instructions to set up you computer for yout next React Native Bootcamp.
 
 💡 I do provide advices for Linux and macOS.
